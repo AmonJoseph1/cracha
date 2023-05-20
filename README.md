@@ -13,3 +13,4 @@ Esse projeto foi desenvolvido durante o NLW DoWhile da Rocketseat usando as segu
 -HTML
 -CSS
 -Javascript
+-Git e Github
